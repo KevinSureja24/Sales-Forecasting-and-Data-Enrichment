@@ -52,4 +52,5 @@ The results of model evaluation are as follows:
 - UPGini
 
 ## Author
-Dev Dubal
+Kevin Sureja
+
